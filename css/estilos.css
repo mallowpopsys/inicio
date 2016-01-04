@@ -11,7 +11,7 @@
 
 body {
 	font-family: "Product Sans";
-	background: url(), #fff;
+	background: url(), #eeeeee;
 	background-size: cover;
 	background-attachment: fixed;
 }
@@ -95,4 +95,7 @@ span {
 }
 .centrador {
 	text-align: center;
+}
+.xd {
+    text-align: right;
 }
