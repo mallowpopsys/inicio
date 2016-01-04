@@ -1,0 +1,10 @@
+/*
+ *ROM-PacMe CSS: seleccionador
+ *(c) 2015 Rafael PacMe <raafy.pachecomendez@gmail.com
+*/
+.seleccionador a {
+	color: #42a5f5;
+}
+.seleccionador ul {
+	list-style: none;
+}

@@ -1,0 +1,28 @@
+/*
+ *ROM-PacMe CSS: estilos (main css)
+ *(c) 2015 Rafael PacMe <rafy.pachecomendez@gmail.com>
+ */
+/*
+ *ROM-PacMe CSS: button (button css)
+ *(c) 2015 Rafael PacMe <rafy.pachecomendez@gmail.com>
+ */
+
+.button {
+	background:#7f8c8d;
+	color:#fff;
+	display:inline-block;
+	font-size:1.25em;
+	margin: 20px 577px;
+	padding:10px 0;
+	text-align:center;
+	width:200px;
+	text-decoration:none;
+	box-shadow:0px 1px 2px 0px #373c3c;
+}
+.button span {
+	margin-right:10px;
+}
+.button:hover {
+	box-shadow:0px 1px 2px 0px #373c3c;
+	padding-top:10px;
+}

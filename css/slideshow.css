@@ -1,0 +1,68 @@
+/*
+ *ROM-PacMe CSS: SlideShow
+ *(c) 2015 Rafael PacMe <rafy.pachecomendez@gmail.com> 	
+*/
+
+.main {
+	width: 90%;
+	max-width: 1000px;
+	margin: 20px 315px;
+}
+
+.slides {
+	width:70%;
+}
+
+.slides img {
+	width:70%;
+}
+
+.slidesjs-pagination {
+	background:#424242;
+	list-style:none;
+	overflow:hidden;
+}
+
+.slidesjs-pagination li {
+	float:left;
+}
+
+.slidesjs-pagination li a {
+	display:block;
+	padding:10px 20px;
+	color:#fff;
+	text-decoration:none;
+}
+
+.slidesjs-pagination li a:hover {
+	background:#000;
+}
+
+.slides .active {
+	background:#000;
+}
+
+.slidesjs-navigation{
+	background:#000;
+	color:#fff;
+	text-decoration:none;
+	display:inline-block;
+	padding:13.5px 20px;
+	float: right;
+}
+
+.icon-play:before {
+	content: "img/play3.png";
+}
+
+.icon-pause:before {
+	content: "img/stop2.png";
+}
+
+.icon-arrow-left5:before {
+	content: "img/backward2.png";
+}
+
+.icon-arrow-right5:before {
+	content: "img/forward3.png";
+}
