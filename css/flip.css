@@ -8,12 +8,12 @@
 	text-align: center;
 	margin: 0 auto;
 	height: 60px;
-  text-transform: uppercase;
-	font-family: Ubuntu;
+    text-transform: uppercase;
+	font-family: 'Product Sans';
 }
 
 h1 {
-	font-size: 1.5em;
+	font-size: 1.2em;
 	font-weight: lighter;
 }
 
@@ -59,20 +59,20 @@ h1 a {
 
 
 .first_cube,.second_cube {
-	 background: #95CDCE;
+	 background: #8BC34A;
 	height: 60px;
 	width: 100%;
     position: relative;
 }
 
 .first_cube {
-	border-bottom: 4px solid #56A8A9;
+	border-bottom: 4px solid #689F38;
 	-webkit-transform: translateZ(30px);
 	transform: translateZ(30px);
 }
 
 .second_cube {
-	border-top: 4px solid #56A8A9;
+	border-top: 4px solid #689F38;
 	margin-top: -2px;
 	 -webkit-transform: rotateX(-90deg) translateZ(-30px);
 	transform: rotateX(-90deg) translateZ(-30px); 
