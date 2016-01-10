@@ -10,7 +10,7 @@
 }
 
 body {
-	font-family: "Product Sans" !important;
+	font-family: "Product Sans", 'Ubuntu', 'sans-serif', 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', !important;
 	background: url(), #eeeeee !important;
 	background-size: cover !important;
 	background-attachment: fixed !important;
