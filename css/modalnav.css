@@ -1,11 +1,10 @@
 a.open2 {
-	color: rgba(0,0,0,.8);
+	color: #fff;
 	font-size: 18px;
 	padding: 0px 20px;
 	position: absolute;
 	line-height: 80px;
 	text-decoration: none;
-	transition-property: box-shadow;
 	transition-duration: 0.5s;
 }
 
