@@ -1,0 +1,45 @@
+.profiles {
+    align-items: left;
+    overflow: hidden;
+    margin-top: 15%;
+    margin-left: 0px;
+    background: #fff;
+    position: fixed;
+    z-index: 1 !important;
+    border-top-right-radius: 5px;
+    border-bottom-right-radius: 5px;
+    box-shadow: 1px 2px 1px 1px rgba(0, 0, 0, 0.16)
+}
+
+.profiles a > img {
+    border-radius: 79px;
+    margin-left: 5px;
+    margin-top : 7px;
+    filter:alpha(opacity=100)3000;
+    -moz-opacity: 1.0;
+    opacity: 1.0;
+    transform: scale(1);
+    -ms-transform: scale(1);
+    -moz-transform: scale(1);
+    -webkit-transform: scale(1);
+    -o-transform: scale(1);
+    -webkit-transition: all 500ms ease-in-out;
+    -moz-transition: all 500ms ease-in-out;
+    -ms-transition: all 500ms ease-in-out;
+    -o-transition: all 500ms ease-in-out;
+}
+
+.profiles a > img:hover {
+    background: slategray
+    filter:alpha(opacity=50);
+    -moz-opacity: 0.5;
+    opacity: 0.5;
+    transform: scale(0.8);
+    -ms-transform: scale(0.8);
+    -moz-transform: scale(0.8);
+    -webkit-transform: scale(0.8);
+    -o-transform: scale(0.8);
+    -webkit-border-radius: 79px;
+    -moz-border-radius: 79px;
+    border-radius: 79px;
+}

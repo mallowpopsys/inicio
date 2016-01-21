@@ -87,7 +87,7 @@ header nav ul li a:hover {
 /*sticky Scroll*/
 .lol-fixed {
 	position: fixed;
-	z-index:1000;
+	z-index: 1000;
     max-width:1000%;
     overflow: hidden;
     background: #8BC34A;
