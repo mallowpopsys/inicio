@@ -13,7 +13,7 @@ header {
 	height: auto;
 }
 header .menu2 {
-	background: #689F38;
+	background: #8BC34A;
 	overflow: hidden;
 	box-shadow: 0px 1px 2px 0px #757575;
 }
@@ -22,4 +22,5 @@ header .logo2 {
 	text-align: center;
 	font-size: 30px;
 	line-height: 70px;
+    background: #689F38;
 }
