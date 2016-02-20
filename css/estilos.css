@@ -67,6 +67,13 @@ body {
 	color: #000;
 	border-radius: 5px;
 }
+
+.principal.contenedor {
+    width:90%;
+	max-width:1000%;
+	margin:auto;
+}
+
 .principal article {
 	border-radius: 5px;
 	padding: 20px;
