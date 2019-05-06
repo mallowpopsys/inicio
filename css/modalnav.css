@@ -9,9 +9,9 @@ a.open2 {
 }
 
 a.open2:hover {
-	background: #AED581;
+	background: #616161;
 	border-bottom: inset 5px solid #fff;
-	box-shadow: 0px 0px 10px 0px #AED581;
+	box-shadow: 0px 0px 10px 0px #616161;
 	color: #fff;
 }
 
@@ -76,6 +76,6 @@ p {
 	z-index:1000;
     max-width:1000%;
     overflow: hidden;
-    background: #8BC34A;
+    background: #585858;
 	width:100%;
 }
