@@ -11,7 +11,7 @@
 
 body {
 	font-family:'Simplicity', Ubuntu, sans-serif !important;
-	background: url(), #888 !important;
+	background: url(), #000000 !important;
 	background-size: cover !important;
 	background-attachment: fixed !important;
 }
